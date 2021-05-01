@@ -1,4 +1,4 @@
-package main
+package AntiSougou
 
 import (
 	"encoding/json"
