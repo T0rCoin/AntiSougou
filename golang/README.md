@@ -5,6 +5,8 @@ need:
   Golang => 1.14
 ```
 
+## First, you need to edit the *BotToken* constant in sdk.go, which is located on line *15*
+
 ### You only need to use the following code to complete simple access!
 
 *If you can, you can create a folder independently to call it*
