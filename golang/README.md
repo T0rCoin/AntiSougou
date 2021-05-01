@@ -9,7 +9,7 @@ need:
 
 *If you can, you can create a folder independently to call it*
 
-For example, if you put *sdk.go* in a folder named _*AntiSougou*_, you can call it in the *main* package of the project root directory
+For example, if you put *sdk.go* in a folder named *AntiSougou*, you can call it in the *main* package of the project root directory
 
 Suppose your project is named: *TEST*
 
